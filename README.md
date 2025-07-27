@@ -10,15 +10,11 @@ This dashboard allows users to explore changes in unemployment (by gender and ed
 
 ### 🔹 Full Dashboard View
 
-![Dashboard Overview]()
+![Dashboard Overview](images/thedashboard.png)
 
-### 🔹 Dynamic Slicer Filtering by Indicator
+### 🔹 Dynamic Slicer Filtering by Indicator and by year
 
-![Slicer Example](images/slicer_demo.png)
-
-### 🔹 KPI Card Example (Latest Year)
-
-![KPI Example](images/kpi_card.png)
+![Slicer Example](images/slicers.png)
 
 ---
 

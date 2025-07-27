@@ -2,7 +2,7 @@
 
 📊 A Power BI project visualizing unemployment trends and youth exclusion indicators in Sri Lanka using World Bank data.
 
-This dashboard allows users to explore changes in unemployment (by gender and education level) and the **NEET** (Not in Education, Employment, or Training) rate among youth from **2010 to 2024**.
+This dashboard allows users to explore changes in unemployment (by gender and education level) and the **NEET** (Not in Education, Employment, or Training) rate among youth from **1991 to 2024**.
 
 ---
 
